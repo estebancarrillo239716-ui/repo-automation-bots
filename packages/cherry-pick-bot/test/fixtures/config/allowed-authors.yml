@@ -1,7 +1,0 @@
-enabled: true
-preservePullRequestTitle: false
-allowedAuthorAssociations:
-  - COLLABORATOR
-  - CONTRIBUTOR
-  - MEMBER
-  - OWNER

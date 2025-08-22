@@ -1,4 +1,0 @@
-- ["private", "eq", false]
-- ["archived", "eq", false]
-- ["org", "anyof", ["GoogleCloudPlatform", "googleapis"]]
-- ["name", "regex", "(dotnet|csharp)"]

@@ -1,4 +1,0 @@
-extraFiles:
-  - type: json
-    path: src/foo.json
-    jsonpath: $..version

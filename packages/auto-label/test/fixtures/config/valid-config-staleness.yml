@@ -1,5 +1,0 @@
-product: true
-staleness:
-  pullrequest: true
-  old: 10
-  extraold: 20

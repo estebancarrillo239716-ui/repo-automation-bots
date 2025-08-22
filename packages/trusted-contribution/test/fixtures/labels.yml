@@ -1,4 +1,0 @@
-annotations:
-  - type: 'label'
-    text:
-      'kokoro:force-run'

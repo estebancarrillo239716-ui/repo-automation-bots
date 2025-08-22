@@ -1,3 +1,0 @@
-alwaysCreateStatusCheck: true
-ignoreFiles:
-  - "**/test/__snapshot__/*"

@@ -1,6 +1,0 @@
-{
-    "scripts": {
-        "test": "bash test-generate-googleapis-gen.sh",
-        "lint": "echo 'The code is beautiful!'"
-    }
-}

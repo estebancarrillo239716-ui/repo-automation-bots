@@ -1,4 +1,0 @@
-type: google.api.Service
-config_version: 3
-name: foo.googleapis.com
-title: Foo API
